@@ -1,6 +1,6 @@
 # nyc-runway-history
 
-Per-day JSON of every takeoff and landing at JFK and LGA since Feb 2023, including the specific runway used.
+Per-day CSV of every takeoff and landing at JFK and LGA since Feb 2023, including the specific runway used.
 
 ## Source and license
 
